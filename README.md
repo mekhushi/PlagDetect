@@ -30,8 +30,8 @@ In academic and professional environments, ensuring the originality of source co
 Get started quickly by cloning and building the project:
 
 ```bash
-git clone https://github.com/yourusername/PlagDetectCPP.git
-cd PlagDetectCPP
+git clone https://github.com/mekhushi/PlagDetect++.git
+cd PlagDetect++
 mkdir build && cd build
 cmake ..
 make
